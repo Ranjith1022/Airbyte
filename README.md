@@ -31,3 +31,10 @@
    ```diff
     $ docker-compose up
   ```
+
+```Check ``` below url
+
+```diff
+  http://localhost:8000
+```
+
