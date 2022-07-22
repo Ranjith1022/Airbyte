@@ -32,7 +32,7 @@
     $ docker-compose up
   ```
 
-```Check ``` below url
+```Check```  below url
 
 ```diff
   http://localhost:8000
