@@ -19,7 +19,7 @@
   ```Clone``` to the Airbyte Documents
   
 ```diff
-  $ git clone https://github.com/airbytehq/airbyte.git
+  $ git clone https://github.com/Ranjith1022/Airbyte.git
 ```
 
   Change the airbyte directory
